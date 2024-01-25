@@ -4,7 +4,7 @@ import { Text, View, StyleSheet } from 'react-native'
 export default function FlatCards(){
     return (
       <View>
-        <Text style = {styles.headingText}> textInComponent </Text>
+        <Text style = {styles.headingText}> Flat Cards </Text>
           <View style = {styles.container}>
             <View style = {[styles.card, styles.cardOne]}>
               <Text>Red</Text>
