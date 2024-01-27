@@ -77,3 +77,11 @@ export default function FancyCards(){
         color: '#000000',
     },
   })
+
+
+//   <Image
+//    source={{
+//      uri: 'https://reactjs.org/logo-og.png'
+//    }}
+//    style={styles.cardImage}
+//   />
